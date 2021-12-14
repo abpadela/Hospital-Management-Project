@@ -1,5 +1,5 @@
 ﻿
-namespace AbdurrahmanPadela_HospitalManagementProject
+namespace HospitalManagementProject
 {
     partial class Form1
     {
