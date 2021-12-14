@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
-namespace AbdurrahmanPadela_HospitalManagementProject
+namespace HospitalManagementProject
 {
     public partial class Form1 : Form
     {
