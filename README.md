@@ -1,4 +1,4 @@
-WELCOME TO MY HOSPITAL PATIENT MANAGEMENT SYSTEM!
+# WELCOME TO MY HOSPITAL PATIENT MANAGEMENT SYSTEM
 
 This is a simple C# based information application system for documenting early patient visits and test results. 
 
